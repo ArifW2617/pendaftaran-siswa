@@ -1,0 +1,222 @@
+[
+    {
+      "id": 1,
+      "text": "Berapakah hasil dari 5 + 8?",
+      "options": [
+        { "id": "A", "text": "10" },
+        { "id": "B", "text": "12" },
+        { "id": "C", "text": "13" },
+        { "id": "D", "text": "15" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 2,
+      "text": "Jika x = 3 dan y = 4, berapakah hasil dari x + y?",
+      "options": [
+        { "id": "A", "text": "5" },
+        { "id": "B", "text": "6" },
+        { "id": "C", "text": "7" },
+        { "id": "D", "text": "8" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 3,
+      "text": "Berapakah hasil dari 6 x 9?",
+      "options": [
+        { "id": "A", "text": "42" },
+        { "id": "B", "text": "48" },
+        { "id": "C", "text": "54" },
+        { "id": "D", "text": "56" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 4,
+      "text": "Jika sebuah persegi memiliki sisi sepanjang 7 cm, berapakah luasnya?",
+      "options": [
+        { "id": "A", "text": "28cm" },
+        { "id": "B", "text": "35cm" },
+        { "id": "C", "text": "42cm" },
+        { "id": "D", "text": "49cm" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 5,
+      "text": "Berapakah hasil dari 18 ÷ 3?",
+      "options": [
+        { "id": "A", "text": "4" },
+        { "id": "B", "text": "6" },
+        { "id": "C", "text": "8" },
+        { "id": "D", "text": "9" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 6,
+      "text": "What is the opposite of \"happy\"?",
+      "options": [
+        { "id": "A", "text": "Sad" },
+        { "id": "B", "text": "Angry" },
+        { "id": "C", "text": "Excited" },
+        { "id": "D", "text": "Tired" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 7,
+      "text": "What does \"table\" mean in Indonesian?",
+      "options": [
+        { "id": "A", "text": "Meja" },
+        { "id": "B", "text": "Kursi" },
+        { "id": "C", "text": "Pintu" },
+        { "id": "D", "text": "Jendela" }
+      ],
+       "correctAnswer": "A"
+    },
+    {
+      "id": 8,
+      "text": "Which sentence is in the present continuous tense?",
+      "options": [
+        { "id": "A", "text": "She reads a book." },
+        { "id": "B", "text": "They will go to the park." },
+        { "id": "C", "text": "I am eating dinner." },
+        { "id": "D", "text": "He went to school." }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 9,
+      "text": "Which one is correct? \"Their,\" \"There,\" or \"Theyre\"?",
+      "options": [
+        { "id": "A", "text": "Their" },
+        { "id": "B", "text": "There" },
+        { "id": "C", "text": "They're" },
+        { "id": "D", "text": "All of the above" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 10,
+      "text": "What day comes after Wednesday?",
+      "options": [
+        { "id": "A", "text": "Thursday" },
+        { "id": "B", "text": "Friday" },
+        { "id": "C", "text": "Saturday" },
+        { "id": "D", "text": "Sunday" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 11,
+      "text": "Apa nama ilmu yang mempelajari tentang benda langit seperti bintang, planet, dan galaksi?",
+      "options": [
+        { "id": "A", "text": "Biologi" },
+        { "id": "B", "text": "Kimia" },
+        { "id": "C", "text": "Fisika" },
+        { "id": "D", "text": "Astronomi" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 12,
+      "text": "Bagaimana cara manusia bernapas?",
+      "options": [
+        { "id": "A", "text": "Dengan mulut" },
+        { "id": "B", "text": "Dengan telinga" },
+        { "id": "C", "text": "Dengan hidung" },
+        { "id": "D", "text": "Dengan mata" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 13,
+      "text": "Sebutkan 3 jenis makanan yang mengandung protein",
+      "options": [
+        { "id": "A", "text": "Roti, nasi, mie" },
+        { "id": "B", "text": "Sayuran, buah-buahan, daging" },
+        { "id": "C", "text": "Telur, daging, kacang-kacangan" },
+        { "id": "D", "text": "Gula, garam, minyak" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+        "id": 14,
+        "text": "Apa nama alat yang digunakan untuk mengukur suhu?",
+        "options": [
+            { "id": "A", "text": "Termometer" },
+            { "id": "B", "text": "Timbangan" },
+            { "id": "C", "text": "Jangka sorong" },
+            { "id": "D", "text": "Meteran" }
+        ],
+        "correctAnswer": "A"
+    },
+    {
+        "id": 15,
+        "text": "Apa yang terjadi jika kita mencampurkan air dengan minyak?",
+        "options": [
+            { "id": "A", "text": "Air menjadi kental" },
+            { "id": "B", "text": "Minyak larut dalam air" },
+            { "id": "C", "text": "Air dan minyak tetap terpisah" },
+            { "id": "D", "text": "Air menguap" }
+        ],
+        "correctAnswer": "C"
+    },
+    {
+        "id": 16,
+        "text": "Apa yang dimaksud dengan demokrasi?",
+        "options": [
+            { "id": "A", "text": "Sistem pemerintahan oleh satu pemimpin" },
+            { "id": "B", "text": "Sistem pemerintahan oleh raja atau ratu" },
+            { "id": "C", "text": "Sistem pemerintahan oleh rakyat" },
+            { "id": "D", "text": "Sistem pemerintahan oleh militer" }
+        ],
+        "correctAnswer": "C"
+    },
+    {
+        "id": 17,
+        "text": "Sebutkan tiga contoh profesi dalam bidang perekonomian.",
+        "options": [
+            { "id": "A", "text": "Dokter, guru, polisi" },
+            { "id": "B", "text": "Petani, nelayan, pedagang" },
+            { "id": "C", "text": "Insinyur, arsitek, seniman" },
+            { "id": "D", "text": "Pilot, pramugari, teknisi" }
+        ],
+        "correctAnswer": "B"
+    },
+    {
+        "id": 18,
+        "text": "Apa yang dimaksud dengan pemerintahan daerah?",
+        "options": [
+            { "id": "A", "text": "Pemerintahan yang berpusat di ibu kota negara" },
+            { "id": "B", "text": "Pemerintahan yang berpusat di kota besar" },
+            { "id": "C", "text": "Pemerintahan yang berada di tingkat lokal atau regional" },
+            { "id": "D", "text": "Pemerintahan yang berpusat di kantor pusat perusahaan" }
+        ],
+        "correctAnswer": "C"
+    },
+    {
+        "id": 19,
+        "text": "Apa peran PBB (Perserikatan Bangsa-Bangsa) dalam hubungan internasional?",
+        "options": [
+            { "id": "A", "text": "Menyelesaikan konflik bersenjata" },
+            { "id": "B", "text": "Mengkoordinasikan bantuan kemanusiaan" },
+            { "id": "C", "text": "Memfasilitasi kerjasama internasional" },
+            { "id": "D", "text": "Semua jawaban benar" }
+        ],
+        "correctAnswer": "D"
+    },
+    {
+        "id": 20,
+        "text": "Bagaimana dampak globalisasi terhadap budaya lokal?",
+        "options": [
+            { "id": "A", "text": "Mempertahankan keberagaman budaya lokal" },
+            { "id": "B", "text": "Menghilangkan budaya lokal dan menggantinya dengan budaya global" },
+            { "id": "C", "text": "Memperkuat identitas budaya lokal" },
+            { "id": "D", "text": "Tidak ada dampak" }
+        ],
+        "correctAnswer": "B"
+    }
+]
